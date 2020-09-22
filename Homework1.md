@@ -78,7 +78,7 @@ The following is a screenshot of an example:
 
 ![](./screenshot_example.PNG)
 
-As shown in the screenshot, we ran mosquitto_sub once, and then we ran mosquitto_pub thrice, publishing messages "Hello World!", "Hello CSC0056~", and "Have a good one~", all of the same topic. 
+As shown in the screenshot, we ran mosquitto_sub once, and then we ran mosquitto_pub thrice, publishing messages "Hello World!", "Hello CSC0056~", and "Have a good one~", all of which are of the same topic. 
 
 Now, type the following to learn more about their usage:
 
