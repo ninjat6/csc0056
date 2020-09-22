@@ -102,7 +102,7 @@ Please compress both the screenshot and the plain text file into <u>one</u> zip 
 
 The submission deadline of this homework assignment is October 5th 9AM, according to the clock on Moodle.
 
-You are encouraged to post your questions on Moodle, and you are highly encouraged to help answer others' questions! We are CSC0056 community.
+For this homework assignment, you are encouraged to post your questions on Moodle, and you are highly encouraged to help answer others' questions! Let's help each other in setting up the environment.
 
 Take heart, and enjoy : )
 
