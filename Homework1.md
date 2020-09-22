@@ -76,7 +76,7 @@ If everything works correctly, you should see that the second terminal shows the
 
 The following is a screenshot of an example:
 
-![](C:\Users\User\iCloudDrive\Courses\CSC0056\Fall2020\homework1\screenshot_example.PNG)
+![](./screenshot_example.PNG)
 
 As shown in the screenshot, we ran mosquitto_sub once, and then we ran mosquitto_pub thrice, publishing messages "Hello World!", "Hello CSC0056~", and "Have a good one~", all of the same topic. 
 
