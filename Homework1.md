@@ -96,7 +96,7 @@ To complete this homework assignment, do the following:
 
 1. Use `mosquitto_sub` and `mosquitto_pub` to send three different messages of topic "topicHomework1" from a publisher to a subscriber. Take a screenshot of your result. See Section 4 above for an example.
 
-2. Write a plain text file (not Word file), in which using your own words to summarize the purpose of those three [MQTT quality-of-service levels (i.e., QoS 0, QoS 1, and QoS 2)](https://docs.oasis-open.org/mqtt/mqtt/v5.0/os/mqtt-v5.0-os.html#_Toc3901234) **and** briefly explain which level is suitable for which type of applications. You are encouraged to survey related information on the Internet (e.g., , what does it mean by *quality-of-service* in the context of data communication?). **In any case, be sure to include your references at the end of the text file**.
+2. Write a plain text file (not Word file), in which using your own words to summarize the purpose of those three [MQTT quality-of-service levels (i.e., QoS 0, QoS 1, and QoS 2)](https://docs.oasis-open.org/mqtt/mqtt/v5.0/os/mqtt-v5.0-os.html#_Toc3901234) **and** briefly explain that for each QoS level, what might be some suitable application scenarios. You are encouraged to survey related information on the Internet (e.g., , what does it mean by *quality-of-service* in the context of data communication?). **In any case, be sure to include your references at the end of the text file**.
 
 Please compress both the screenshot and the plain text file into <u>one</u> zip file, and name the zip file by "your student id". Upload the zip file to Moodle to complete this homework assignment.
 
