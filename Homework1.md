@@ -68,6 +68,12 @@ Then, open the second terminal, and use `mosquitto_sub` to subscribe to a topic:
 
 `mosquitto_sub -t topic1`
 
+(Note: If the above command did not work, you need to install the mosquitto-clients package. Type the following to install it:
+
+`sudo apt install mosquitto-clients`
+
+and type the above mosquitto_sub command again.)
+
 And then, to publish a message for a certain topic (assume the topic name is "topic1"), open the third terminal and execute `mosquitto_pub`:
 
 `mosquitto_pub -t topic1 -m "your message"`
